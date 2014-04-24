@@ -1,0 +1,9 @@
+V0.1	-	First Make
+v0.2	-	Make Init()
+v0.3	-	update method
+			init		-> Add the argument to the method
+			trackScreen	-> add method
+			trackEvent	-> add method
+v0.4	-	add New option
+			manual session controll
+			endSession	-> add method
