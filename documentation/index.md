@@ -96,20 +96,6 @@ ga_android.trackEvent({
 UnRyong Park - theblack1025@gmail.com
 
 ## License
-
-TODO: Enter your license/legal information here.
-
-
-
-## Usage
-
-
-
-## Author
-
-Matt Tuttle - heardtheword@gmail.com
-
-## License
 The MIT License (MIT)
 
 Copyright (c) 2014. UnRyongPark(theblack1025)
